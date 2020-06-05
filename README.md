@@ -1,5 +1,4 @@
 # How to LaTeX / LaTeXResources
-## Elias Jaffe
 
 PDF containing practical resources and links for learning LaTeX, compiled by a LaTeX veteran.
 
