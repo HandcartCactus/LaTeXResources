@@ -1,6 +1,6 @@
 # How to LaTeX / LaTeXResources
 
-PDF containing practical resources and links for learning LaTeX, compiled by a LaTeX veteran.
+PDF containing practical resources and links for learning LaTeX, compiled by a LaTeX fan.
 
 Contains:
 * `main.tex`, for modifying your own PDF. Compiled with PDFLaTeX. Works on Overleaf.
